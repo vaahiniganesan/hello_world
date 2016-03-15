@@ -1,2 +1,2 @@
 # hello_world
-This is my first repository
+I am making some changes (commits) to the master here as per the instructions: I am a PhD Student at the university of central florida.
